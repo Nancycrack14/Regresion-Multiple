@@ -13,4 +13,4 @@ El objetivo de este proyecto es utilizar técnicas de **regresión múltiple** p
 
 **[-Ver HTML](Regresión_Multiple.html)**    
 **[-Descargar jupyter notebook](Regresión_Multiple.ipynb)**  
-**[-Descargar base de datos](A1_3_NASA)**  
+**[-Descargar base de datos](A1_3_NASA.csv)**  
